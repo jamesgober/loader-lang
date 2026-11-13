@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        <strong>loader-lang</strong> defines the LexerSketch program image (<code>.lsi</code>) and loads it: native code segments mapped into executable memory, bytecode units instantiated for the VM, imports bound across the native/VM boundary, hashes verified, initializers run in manifest order, and loose scripts loaded in their declared order. It powers the hybrid publish mode.
+        <strong>loader-lang</strong> defines the toolchain's program image (<code>.lsi</code>) and loads it: native code segments mapped into executable memory, bytecode units instantiated for the VM, imports bound across the native/VM boundary, hashes verified, initializers run in manifest order, and loose scripts loaded in their declared order. It powers the hybrid publish mode.
     </p>
     <br>
     <hr>

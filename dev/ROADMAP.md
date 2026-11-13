@@ -1,7 +1,6 @@
 # loader-lang - Roadmap
 
 > Path from scaffold to a stable 1.0. Hard parts are front-loaded; each phase has hard exit criteria.
-> Master plan: ../_lexersketch/ROADMAP.md and ../_lexersketch/NEW-LIBS.md
 >
 > **Anti-deferral rule:** no listed hard task moves to a later phase unless this file records the move and the reason.
 
@@ -17,7 +16,7 @@ Compiles, CI green, structure correct, no domain logic.
 - [ ] Loading sequence: pager mapping, import binding, initialization order, loose-script loading, hot swap in dev mode.
 
 ## v0.9.0 - Hardening
-- [ ] Fuzzing images; integrity tests; audit with the LexerSketch publish mode as consumer.
+- [ ] Fuzzing images; integrity tests; audit with the toolchain's publish mode as consumer.
 
 ## v1.0.0 - Stable
 - [ ] Frozen after Mox publishes hybrid binaries through it (D18).
