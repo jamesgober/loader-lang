@@ -19,7 +19,7 @@ readme = "README.md"
 description = "Program images (.lsi) and their loader: native segments, bytecode units, linking, and ordered initialization."
 
 # Keywords (5 max)
-keywords = ["loader", "image", "hybrid", "runtime", "lexersketch"]
+keywords = ["loader", "image", "hybrid", "runtime"]
 
 # Categories
 categories = ["development-tools", "encoding"]
